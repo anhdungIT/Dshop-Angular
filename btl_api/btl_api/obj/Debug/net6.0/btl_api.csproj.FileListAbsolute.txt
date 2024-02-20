@@ -1,0 +1,173 @@
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\appsettings.Development.json
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\appsettings.json
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\btl_api.exe
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\btl_api.deps.json
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\btl_api.runtimeconfig.json
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\btl_api.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\btl_api.pdb
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Azure.Core.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Azure.Identity.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Humanizer.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.csproj.AssemblyReference.cache
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.AssemblyInfoInputs.cache
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.AssemblyInfo.cs
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.csproj.CoreCompileInputs.cache
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.MvcApplicationPartsAssemblyInfo.cs
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.MvcApplicationPartsAssemblyInfo.cache
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\staticwebassets.build.json
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\staticwebassets.development.json
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\scopedcss\bundle\btl_api.styles.css
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.csproj.CopyComplete
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\refint\btl_api.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.pdb
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\btl_api.genruntimeconfig.cache
+D:\năm 3\kiểm thử\btl_api\btl_api\obj\Debug\net6.0\ref\btl_api.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\BLL.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\DAL.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Model.dll
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\BLL.pdb
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\DAL.pdb
+D:\năm 3\kiểm thử\btl_api\btl_api\bin\Debug\net6.0\Model.pdb
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\appsettings.Development.json
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\appsettings.json
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\btl_api.exe
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\btl_api.deps.json
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\btl_api.runtimeconfig.json
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\btl_api.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\btl_api.pdb
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Azure.Core.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Azure.Identity.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Humanizer.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\BLL.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\DAL.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Model.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\BLL.pdb
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\DAL.pdb
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Model.pdb
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.csproj.AssemblyReference.cache
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.AssemblyInfoInputs.cache
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.AssemblyInfo.cs
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.csproj.CoreCompileInputs.cache
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.MvcApplicationPartsAssemblyInfo.cs
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.MvcApplicationPartsAssemblyInfo.cache
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\staticwebassets.build.json
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\staticwebassets.development.json
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\scopedcss\bundle\btl_api.styles.css
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.csproj.CopyComplete
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.dll
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\refint\btl_api.dll
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.pdb
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\btl_api.genruntimeconfig.cache
+D:\năm 3\API\btl_api\btl_api\obj\Debug\net6.0\ref\btl_api.dll
+D:\năm 3\API\btl_api\btl_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

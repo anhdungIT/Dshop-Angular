@@ -1,0 +1,34 @@
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\BLL.dll
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\BLL.pdb
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\DAL.dll
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\Model.dll
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\DAL.pdb
+D:\năm 3\kiểm thử\btl_api\BLL\bin\Debug\net6.0\Model.pdb
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.dll
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\BLL.pdb
+D:\năm 3\kiểm thử\btl_api\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\BLL.dll
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\BLL.pdb
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\DAL.dll
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\Model.dll
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\DAL.pdb
+D:\năm 3\API\btl_api\BLL\bin\Debug\net6.0\Model.pdb
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.dll
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\BLL.pdb
+D:\năm 3\API\btl_api\BLL\obj\Debug\net6.0\ref\BLL.dll
